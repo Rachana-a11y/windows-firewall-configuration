@@ -58,4 +58,4 @@ Control Panel → System and Security → Windows Firewall
 - Basic Windows firewall rule lifecycle (create, test, delete).
 
 
-Visual evidence of firewall configuration and testing attached in screenshots folder[Results](screenshots).
+Visual evidence of firewall configuration and testing attached in [Results](screenshots).
